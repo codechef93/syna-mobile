@@ -1,0 +1,68 @@
+{
+  "nextAppointments": [
+    {
+      "id": "1",
+      "date": "2020-04-10",
+      "scheduledProcedures": [
+        "teeth whitening",
+        "children treatment"
+      ]
+    },
+    {
+      "id": "2",
+      "date": "2020-04-22",
+      "scheduledProcedures": [
+        "teeth whitening",
+        "children treatment"
+      ]
+    }
+  ],
+  "lastAppointments": [
+    {
+      "id": "1",
+      "date": "2020-04-20",
+      "scheduledProcedures": [
+        "teeth whitening",
+        "children treatment"
+      ]
+    }
+  ],
+  "activeDates": [
+    "2020-06-09",
+    "2020-06-10",
+    "2020-06-11",
+    "2020-06-12",
+    "2020-06-13",
+    "2020-06-14",
+    "2020-06-15",
+    "2020-06-16",
+    "2020-06-17",
+    "2020-06-18",
+    "2020-06-19",
+    "2020-06-20",
+    "2020-06-21",
+    "2020-06-22",
+    "2020-06-23",
+    "2020-06-24",
+    "2020-06-25",
+    "2020-06-26",
+    "2020-06-27",
+    "2020-06-28",
+    "2020-06-29",
+    "2020-06-30"
+  ],
+  "months": [
+    "January",
+    "February",
+    "march",
+    "april",
+    "may",
+    "june",
+    "july",
+    "august",
+    "september",
+    "october",
+    "november",
+    "december"
+  ]
+}

@@ -1,0 +1,92 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.syna"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="28" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:5:5-65
+13-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:5:22-62
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:6:5-80
+14-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:6:22-78
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[com.facebook.flipper:flipper:0.33.1] /Users/macbookpro/.gradle/caches/transforms-2/files-2.1/16a048f1520d39aeb2cbbbedf45ef3ad/jetified-flipper-0.33.1/AndroidManifest.xml:16:5-76
+15-->[com.facebook.flipper:flipper:0.33.1] /Users/macbookpro/.gradle/caches/transforms-2/files-2.1/16a048f1520d39aeb2cbbbedf45ef3ad/jetified-flipper-0.33.1/AndroidManifest.xml:16:22-73
+16
+17    <application
+17-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:8:5-27:19
+18        android:name="com.syna.MainApplication"
+18-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:9:7-38
+19        android:allowBackup="false"
+19-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:13:7-34
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] /Users/macbookpro/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:11:7-41
+23        android:label="@string/app_name"
+23-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:10:7-39
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:12:7-52
+25        android:theme="@style/AppTheme"
+25-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:14:7-38
+26        android:usesCleartextTraffic="true" >
+26-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/debug/AndroidManifest.xml:7:18-53
+27        <activity
+27-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:15:7-25:18
+28            android:name="com.syna.MainActivity"
+28-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:16:9-37
+29            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+29-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:18:9-86
+30            android:label="@string/app_name"
+30-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:17:9-41
+31            android:launchMode="singleTask"
+31-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:19:9-40
+32            android:windowSoftInputMode="adjustResize" >
+32-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:20:9-51
+33            <intent-filter>
+33-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:21:9-24:25
+34                <action android:name="android.intent.action.MAIN" />
+34-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:22:13-65
+34-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:22:21-62
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:23:13-73
+36-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:23:23-70
+37            </intent-filter>
+38        </activity>
+39        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+39-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:26:7-84
+39-->/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/src/main/AndroidManifest.xml:26:17-81
+40
+41        <provider
+41-->[:react-native-image-picker] /Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+42            android:name="com.imagepicker.FileProvider"
+42-->[:react-native-image-picker] /Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+43            android:authorities="com.syna.provider"
+43-->[:react-native-image-picker] /Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+44            android:exported="false"
+44-->[:react-native-image-picker] /Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+45            android:grantUriPermissions="true" >
+45-->[:react-native-image-picker] /Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+46            <meta-data
+46-->[:react-native-image-picker] /Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+47                android:name="android.support.FILE_PROVIDER_PATHS"
+47-->[:react-native-image-picker] /Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+48                android:resource="@xml/provider_paths" />
+48-->[:react-native-image-picker] /Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+49        </provider>
+50    </application>
+51
+52</manifest>

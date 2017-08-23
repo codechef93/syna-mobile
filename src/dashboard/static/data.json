@@ -1,0 +1,42 @@
+{
+  "latestAppointment": {
+    "date": "2020-04-20",
+    "scheduledProcedures": ["teeth whitening", "children treatment"]
+  },
+  "treatmentPlan": {
+    "date": "2020-04-20",
+    "accomplishAt": 15,
+    "treatments": [
+      {
+        "id": "1",
+        "tooth": "uls",
+        "status": "done",
+        "description": "Lorem Lorem"
+      },
+      {
+        "id": "2",
+        "tooth": "uls",
+        "status": "pending",
+        "description": "Lorem Lorem"
+      },
+      {
+        "id": "3",
+        "tooth": "uls",
+        "status": "done",
+        "description": "Lorem Lorem"
+      },
+      {
+        "id": "4",
+        "tooth": "uls",
+        "status": "done",
+        "description": "Lorem Lorem"
+      },
+      {
+        "id": "5",
+        "tooth": "uls",
+        "status": "done",
+        "description": "Lorem Lorem"
+      }
+    ]
+  }
+}

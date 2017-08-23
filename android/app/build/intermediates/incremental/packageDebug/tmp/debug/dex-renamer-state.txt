@@ -1,0 +1,4 @@
+#Sat Apr 17 17:00:04 CEST 2021
+base.0=/Users/macbookpro/Desktop/projet/tfab/toulouse/syna-mobile/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

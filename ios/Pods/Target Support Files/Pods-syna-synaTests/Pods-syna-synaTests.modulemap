@@ -1,0 +1,6 @@
+module Pods_syna_synaTests {
+  umbrella header "Pods-syna-synaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
